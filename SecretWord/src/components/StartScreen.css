@@ -1,0 +1,28 @@
+.start, h1{
+    font-size: 60px;
+}
+
+.start, p{
+    color: green;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.start, button{
+
+    padding: 10px;
+    margin-top: 50px;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.start, button:hover{
+    cursor: pointer;
+    color: black;
+    background-color: white;
+    
+}
